@@ -17,3 +17,11 @@
   text-align: center;
   margin-bottom: 32px;
 }
+.champ {
+  margin-bottom: 20px;
+}
+.form label {
+  font-size: 14px;
+  font-weight: 600;
+  color: #0F1B2D;
+}

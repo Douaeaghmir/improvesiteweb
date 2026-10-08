@@ -1,10 +1,5 @@
-.parent{
-
-}
-.form{
-  margin:30px 40%;
+.parent {
+  display: flex;
   justify-content: center;
-  align-items: center;
-  height: 400px;
-  border: 2px solid rgb(236, 129, 29);
+  padding: 64px 24px 96px;
 }

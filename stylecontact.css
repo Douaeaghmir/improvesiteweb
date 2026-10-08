@@ -35,3 +35,9 @@ form input , .form textarea {
   border:  1px solid #E5E7EB;
   border-radius: 15px;
 }
+.form input:focus , .form textarea:focus{
+  outline: none;
+  background-color: #FFFFFF;
+  border-color: #FF6B2C;
+  box-shadow: 0px 0px 3px rgba(255, 107, 44, 0.2);;
+}

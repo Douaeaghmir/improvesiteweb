@@ -25,3 +25,13 @@
   font-weight: 600;
   color: #0F1B2D;
 }
+form input , .form textarea {
+  width: 100%;
+  padding: 12px 16px;
+  font-family:Arial, sans-serif;
+  font-size: 16px;
+  color : #1F2937;
+  background-color: #F7F8FA;
+  border:  1px solid #E5E7EB;
+  border-radius: 15px;
+}

@@ -41,3 +41,8 @@ form input , .form textarea {
   border-color: #FF6B2C;
   box-shadow: 0px 0px 3px rgba(255, 107, 44, 0.2);;
 }
+.form input:hover , .form textarea:hover{
+  outline: none;
+  background-color: #E5E7EB;
+   box-shadow: 0px 0px 3px rgba(138, 131, 129, 0.2);;
+}

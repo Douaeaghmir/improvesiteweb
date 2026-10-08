@@ -3,3 +3,12 @@
   justify-content: center;
   padding: 64px 24px 96px;
 }
+.form {
+  width: 100%;
+  padding: 40px;
+  background-color: #FFFFFF;
+  border: 1px solid #E5E7EB;
+  border-top: 4px solid #FF6B2C;
+  border-radius: 12px;
+  box-shadow: 0 10px 25px rgba(15, 27, 45, 0.15);
+}

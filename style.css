@@ -129,7 +129,13 @@ button:focus-visible {
   border-radius: 12px;
   box-shadow: 0 1px 3px rgba(15, 27, 45, 0.08);
 }
-
+.carte{
+  transition: transform (2s smooth);
+}
+.carte:hover{
+  transform: scale(0.9);
+  box-shadow: 0 10px 25px rgba(15, 27, 45, 0.15);
+}
 .icone {
   width: 48px;
   height: 48px;
